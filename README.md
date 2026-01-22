@@ -1,5 +1,5 @@
-# CloudFlare Scan (ipv4 ipv6)  
-CloudFlare 扫描器 
+# CloudFlareScan (ipv4&ipv6)  
+CloudFlare 扫描器 （简称CFS)
 
 ⚠️提示：本工具仅供学习和合法网络测速，请遵守当地法律法规，造成的一切后果自负。
 
